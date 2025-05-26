@@ -77,7 +77,6 @@ This project provides a full analysis pipeline of an e-commerce dataset using My
 
 Below is a Power BI dashboard summarizing key business metrics and insights from the e-commerce dataset:
 
-🔗 [View Power BI Dashboard](https://github.com/TobechukwuOnuorah/E-commerce_sales_analysis/blob/main/powerbi-dashboard/powerbi-dashboard.png)
 
 🔗 [View Power BI Dashboard](https://github.com/TobechukwuOnuorah/E-commerce_sales_analysis/blob/main/powerbi-dashboard.png)
 
