@@ -79,6 +79,8 @@ Below is a Power BI dashboard summarizing key business metrics and insights from
 
 🔗 [View Power BI Dashboard](https://github.com/TobechukwuOnuorah/E-commerce_sales_analysis/blob/main/powerbi-dashboard/powerbi-dashboard.png)
 
+🔗 [View Power BI Dashboard](https://github.com/TobechukwuOnuorah/E-commerce_sales_analysis/blob/main/powerbi-dashboard.png)
+
 
 #### Key Highlights:
 - Total Sales: $11.49M
