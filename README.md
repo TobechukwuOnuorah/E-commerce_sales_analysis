@@ -21,7 +21,8 @@ This project provides a full analysis pipeline of an e-commerce dataset using My
    - Ensured proper date formats and fixed data types for `order_date` and `ship_date`.
 4. **Spell Check & Standardization**:
    - Reviewed distinct values in fields like region,category,sub_category.
-5. **Null & Blank Space Checks** (to be expanded).
+5. **Null & Blank Space Checks**:
+   - Performed checks to identify missing or incomplete values in important columns.
 
 ### 🗂️ Project Structure
 
@@ -99,7 +100,7 @@ This dashboard provides a visual overview of revenue distribution, product perfo
 ---
 ### 📌 Note
 
-This project is intended for educational and analytical purposes only. The dataset has been anonymized and used strictly for demonstrating SQL skills in a healthcare context.
+This project is intended for educational and analytical purposes only. The dataset has been anonymized and used strictly for demonstrating SQL skills in a Product sales context.
 
 ---
 
