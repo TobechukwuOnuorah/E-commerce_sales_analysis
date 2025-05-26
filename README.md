@@ -6,7 +6,10 @@ This project provides a full analysis pipeline of an e-commerce dataset using My
 - **Database:** `online_sales`
 - **Primary Table:** `ecommerce_sales_cleaned`
 - **Cloned Table for Processing:** `ecommerce_sales`
-  
+
+### Dataset Link 
+[Dataset](https://drive.google.com/drive/folders/1twqsksdEyJk8y_qKVssVduJup5Jk5Gt4?usp=drive_link)
+
 ### Tools 
 - Excel - Data Cleaning 
 - MySQL - Data Cleaning and Data Analysis
