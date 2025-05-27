@@ -32,7 +32,7 @@ This project provides a full analysis pipeline of an e-commerce dataset using My
 1. **KPI Calculation**
    - Total revenue
    - Total quantity sold
-   - Number of categories and sub-categories
+   - Number of categories 
    - Customer count and distribution
 
 2. **Insights Extracted**
